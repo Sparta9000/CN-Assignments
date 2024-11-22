@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import os
 
-folder = "Q3"
+folder = "Q1_test"
 
 file_name = "tcp-example.cwnd"
 
